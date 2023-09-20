@@ -4,7 +4,9 @@ Identify if a person is wearing a face mask or not and another notebook for loca
 Model used: YOLOv5.. https://docs.ultralytics.com/yolov5/
 
 Dataset used: Face mask detection dataset kaggle
+
 Note: The annotations have to be cconverted from the xml to txt in the yolo format. Will be uploading a script to do that soon.
+
 
 ## Results:
 ![download](https://github.com/Shocker444/Face-mask-detection/assets/101675941/74e80877-f4e3-4eaa-95b6-0a35a5dd995f)
