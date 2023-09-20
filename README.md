@@ -1,5 +1,5 @@
 # Face-mask-detection
-Identify if a person is wearing a face mask or not and another notebook for localization of mask(mask detection)
+Identify if a person is wearing a face mask or not and another notebook for localization of mask(mask detection) using pytorch and yolov5
 
 Model used: YOLOv5.. https://docs.ultralytics.com/yolov5/
 
